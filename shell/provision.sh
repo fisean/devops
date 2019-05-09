@@ -2,7 +2,7 @@
 
 MY_PATH=`dirname $0`
 
-pkg install -y ccache xorg font-adobe-100dpi gmake git-lite
+pkg install -y ccache xorg font-adobe-100dpi gmake git-lite curlpp autoconf
 cp ${MY_PATH}/.cshrc ~devel/.cshrc
 chown devel:devel ~devel/.cshrc
 
