@@ -1,5 +1,4 @@
 SERVICE = fisean
-XORG = YES
 REGGAE_PATH := /usr/local/share/reggae
 XORG = YES
 
